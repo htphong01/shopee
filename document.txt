@@ -1,0 +1,24 @@
+transform-origin
+will-change
+webkit prefix css
+modal
+overflow: hidden
+css selectors
+12 column grid
+text-overflow: ellipsis
+white-space: nowrap;
+viewport
+nguyên tắc bất ngờ nhỏ nhất
+backslash: \
+template String ES6
+Javascript number methods
+Javascript array methods
+date object mozilla
+Array.hasOwnProperty
+media query common breakpoint
+Media queries: Px, rem hay em?
+flex-basis
+grid system
+nth-of-type
+
+
